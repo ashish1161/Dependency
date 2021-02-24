@@ -1,0 +1,13 @@
+C:\Users\Fusionstak\source\repos\Relation\bin\Debug\netcoreapp3.1\Relation.exe
+C:\Users\Fusionstak\source\repos\Relation\bin\Debug\netcoreapp3.1\Relation.deps.json
+C:\Users\Fusionstak\source\repos\Relation\bin\Debug\netcoreapp3.1\Relation.runtimeconfig.json
+C:\Users\Fusionstak\source\repos\Relation\bin\Debug\netcoreapp3.1\Relation.runtimeconfig.dev.json
+C:\Users\Fusionstak\source\repos\Relation\bin\Debug\netcoreapp3.1\Relation.dll
+C:\Users\Fusionstak\source\repos\Relation\bin\Debug\netcoreapp3.1\Relation.pdb
+C:\Users\Fusionstak\source\repos\Relation\obj\Debug\netcoreapp3.1\Relation.csprojAssemblyReference.cache
+C:\Users\Fusionstak\source\repos\Relation\obj\Debug\netcoreapp3.1\Relation.AssemblyInfoInputs.cache
+C:\Users\Fusionstak\source\repos\Relation\obj\Debug\netcoreapp3.1\Relation.AssemblyInfo.cs
+C:\Users\Fusionstak\source\repos\Relation\obj\Debug\netcoreapp3.1\Relation.csproj.CoreCompileInputs.cache
+C:\Users\Fusionstak\source\repos\Relation\obj\Debug\netcoreapp3.1\Relation.dll
+C:\Users\Fusionstak\source\repos\Relation\obj\Debug\netcoreapp3.1\Relation.pdb
+C:\Users\Fusionstak\source\repos\Relation\obj\Debug\netcoreapp3.1\Relation.genruntimeconfig.cache
